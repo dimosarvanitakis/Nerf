@@ -1,15 +1,11 @@
-﻿
-.m0 { margin-left:   40px }
-
-<h1>N.E.R.F.</h1>
+﻿<h1>N.E.R.F.</h1>
 
 ![Alt Text](https://github.com/dimosarvanitakis/Nerf/blob/master/nef.png)
 
 <h2>Network Emulator Robust-radical Freeware</h2>
 
 <h3>Introduction</h3>
-
-<p class="m0"> 30px This tool works in a client-server model. The server waits for connections and the clients
+<p  style = "margin-left:   40px"  > This tool works in a client-server model. The server waits for connections and the clients
 
 connect to the remote server to begin the experiment. There are two communication
 
