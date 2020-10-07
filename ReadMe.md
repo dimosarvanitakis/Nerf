@@ -3,7 +3,7 @@
 **N.E.R.F.**
 
 **Network Emulator Robust-radical**
-![Alt Text](https://github.com/dimosarvanitakis/Nerf/nef.png)
+![Alt Text](https://github.com/dimosarvanitakis/Nerf/blob/master/nef.png)
 **Freeware**
 
 **Introduction**
