@@ -1,6 +1,6 @@
 ﻿
 
-<h1>**N.E.R.F.**</h1>
+<h1>N.E.R.F.</h1>
 
 ![Alt Text](https://github.com/dimosarvanitakis/Nerf/blob/master/nef.png)
 
@@ -58,7 +58,7 @@ convenience. Use an output format that will help for plotting the results.
 
 • -s: The program acts like server
 
-<h3>**Client parameters**
+<h3>Client parameters</h3>
 
 • -c: The program acts like client
 
@@ -86,7 +86,7 @@ stream should be continuously sending data until a user termination signal occur
 
 • -w: Wait duration in seconds before starting the data transmission
 
-<h3>**Files**</h3>
+<h3>Files</h3>
 
 **MakeFile**
 
@@ -118,7 +118,7 @@ stream should be continuously sending data until a user termination signal occur
 
 
 
-<h3>**Requirements**</h3>
+<h3>Requirements</h3>
 
 ​**g++ compiler**
 
