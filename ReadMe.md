@@ -4,9 +4,9 @@
 
 ![Alt Text](https://github.com/dimosarvanitakis/Nerf/blob/master/nef.png)
 
-<h2>**Network Emulator Robust-radical Freeware**</h2>
+<h2>Network Emulator Robust-radical Freeware</h2>
 
-<h3>**Introduction**</h3>
+<h3>Introduction</h3>
 
 This tool works in a client-server model. The server waits for connections and the clients
 
@@ -22,9 +22,9 @@ the server and the client. This communication channel uses TCP
 
 network measurement process
 
-<h3>**Parameters**
+<h3>Parameters</h2>
 
-<h3>**Server/Client parameters**</h3>
+<h3>Server/Client parameters</h3>
 
 • -a: In server mode, this argument specifies the IP address of the network interface
 
@@ -54,7 +54,7 @@ are free to produce any kind of meaningful result.
 
 convenience. Use an output format that will help for plotting the results.
 
-<h3>** Server parameters **</h3>
+<h3> Server parameters </h3>
 
 • -s: The program acts like server
 
