@@ -5,7 +5,7 @@
 <h2>Network Emulator Robust-radical Freeware</h2>
 
 <h3>Introduction</h3>
-<p  style = "margin-left:   40px"  > This tool works in a client-server model. The server waits for connections and the clients
+<p  style =" margin-left:40px ;"  > This tool works in a client-server model. The server waits for connections and the clients
 
 connect to the remote server to begin the experiment. There are two communication
 
