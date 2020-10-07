@@ -1,9 +1,4 @@
 ﻿
-p {
-  border: 2px solid powderblue;
-  margin: 50px;
-}
-
 <h1>N.E.R.F.</h1>
 
 ![Alt Text](https://github.com/dimosarvanitakis/Nerf/blob/master/nef.png)
@@ -12,7 +7,7 @@ p {
 
 <h3>Introduction</h3>
 
-This tool works in a client-server model. The server waits for connections and the clients
+[margin-left] => 30px This tool works in a client-server model. The server waits for connections and the clients
 
 connect to the remote server to begin the experiment. There are two communication
 
@@ -59,11 +54,11 @@ are free to produce any kind of meaningful result.
 convenience. Use an output format that will help for plotting the results.
 
 <h3> Server parameters </h3>
-<p>
+
 • -s: The program acts like server
-</p>
+
 <h3>Client parameters</h3>
-<p>
+
 • -c: The program acts like client
 
 • -l: UDP packet size in bytes
@@ -89,11 +84,8 @@ stream should be continuously sending data until a user termination signal occur
 • -d: Measure the one way delay, instead of throughput, jitter and packet loss
 
 • -w: Wait duration in seconds before starting the data transmission
-</p>
 
 <h3>Files</h3>
-
-<p>
 
 **MakeFile**
 
@@ -122,7 +114,7 @@ stream should be continuously sending data until a user termination signal occur
 **Utilities.cpp**
 
 
-</p>
+
 
 
 <h3>Requirements</h3>
