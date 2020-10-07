@@ -1,12 +1,12 @@
 ﻿
 
-**N.E.R.F.**
+<h1>**N.E.R.F.**</h1>
 
-**Network Emulator Robust-radical**
 ![Alt Text](https://github.com/dimosarvanitakis/Nerf/blob/master/nef.png)
-**Freeware**
 
-**Introduction**
+<h2>**Network Emulator Robust-radical Freeware**</h2>
+
+<h3>**Introduction**</h3>
 
 This tool works in a client-server model. The server waits for connections and the clients
 
@@ -22,9 +22,9 @@ the server and the client. This communication channel uses TCP
 
 network measurement process
 
-**Parameters**
+<h3>**Parameters**
 
-**Server/Client parameters**
+<h3>**Server/Client parameters**</h3>
 
 • -a: In server mode, this argument specifies the IP address of the network interface
 
@@ -54,11 +54,11 @@ are free to produce any kind of meaningful result.
 
 convenience. Use an output format that will help for plotting the results.
 
-**Server parameters**
+<h3>** Server parameters **</h3>
 
 • -s: The program acts like server
 
-**Client parameters**
+<h3>**Client parameters**
 
 • -c: The program acts like client
 
@@ -86,7 +86,7 @@ stream should be continuously sending data until a user termination signal occur
 
 • -w: Wait duration in seconds before starting the data transmission
 
-**Files**
+<h3>**Files**</h3>
 
 **MakeFile**
 
@@ -118,7 +118,7 @@ stream should be continuously sending data until a user termination signal occur
 
 
 
-**Requirements**
+<h3>**Requirements**</h3>
 
 ​**g++ compiler**
 
