@@ -1,10 +1,8 @@
 ﻿
-<style>
 p {
   border: 2px solid powderblue;
   margin: 50px;
 }
-</style>
 
 <h1>N.E.R.F.</h1>
 
