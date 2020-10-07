@@ -1,4 +1,6 @@
 ﻿
+.m0 { margin-left:   40px }
+
 <h1>N.E.R.F.</h1>
 
 ![Alt Text](https://github.com/dimosarvanitakis/Nerf/blob/master/nef.png)
@@ -7,7 +9,7 @@
 
 <h3>Introduction</h3>
 
-[margin-left] => 30px This tool works in a client-server model. The server waits for connections and the clients
+<p class="m0"> 30px This tool works in a client-server model. The server waits for connections and the clients
 
 connect to the remote server to begin the experiment. There are two communication
 
@@ -20,7 +22,7 @@ the server and the client. This communication channel uses TCP
 • The experiment channel. This channel transfers data over UDP that are part of the
 
 network measurement process
-
+</p>
 <h3>Parameters</h2>
 
 <h3>Server/Client parameters</h3>
